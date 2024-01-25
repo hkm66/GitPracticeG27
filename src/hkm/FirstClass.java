@@ -6,5 +6,6 @@ public class FirstClass {
         // hello ebru
         //Hello everybody
         //Welcome Guray
+        //Welcome Ebru
     }
 }
