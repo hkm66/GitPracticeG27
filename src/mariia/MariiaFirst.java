@@ -14,5 +14,7 @@ public class MariiaFirst {
         }
 
         System.out.println(newStr);
+        //Hello Merve
+        //Hello Bahram
     }
 }
